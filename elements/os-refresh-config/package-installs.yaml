@@ -1,0 +1,2 @@
+os-refresh-config:
+  installtype: package
